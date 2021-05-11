@@ -1,0 +1,49 @@
+*{
+	margin:0;
+	padding :0;
+	font-family:century gothic;
+}
+body{
+	background:linear-gradient(rgba(0,0,60,0.6),rgba(0,0,60,0.6)),url(images/p2.jpg);
+	background-size:cover;
+	background-position:center;
+}
+.title{
+	position:absolute;
+	top:20%;
+	left:40%;
+	transform:translate(-50%,-50%);
+}
+.title h1{
+	color:#fff;
+	font-family:georgian;
+	font-size:65px;
+}
+.main{
+	background-color:#FFD700;
+	max-width:600px;
+	float:none;
+	margin:200px auto;
+	padding:40px;
+}
+.label1{
+	background-color:#00ffff;
+	margin:20px auto;
+	
+	
+}
+.label2{
+	background-color:#00ffff;
+	margin:20px auto;
+	
+}
+.label3{
+	background-color:#00ffff;
+	margin:20px auto;
+	
+}
+.form-control{
+	background-color:transparent !important;
+	
+}
+
